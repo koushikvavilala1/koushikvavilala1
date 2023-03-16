@@ -1,0 +1,59 @@
+.mydiv1 {
+    background-color: rgb(217, 210, 210);
+    color: blueviolet;
+    height: 20px;
+    width: 395px;
+    margin-top: 100px;
+    margin-left: 500px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.myh3 {
+    padding-top: 5px;
+    padding-left: 110px;
+
+}
+
+body {
+    background-color: white;
+
+}
+
+.pardiv {
+    background-color: rgb(49, 171, 248);
+    height: 250px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.chidiv {
+    background-color: rgb(219, 122, 86);
+    height: 70px;
+    width: 70px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 20px;
+
+}
+
+.mybutton {
+    background-color: blue;
+    color: white;
+    width: 200px;
+    height: 25px;
+    margin-left: 95px;
+    margin-top: 60px;
+    border: none;
+    cursor: pointer;
+}
+
+.mydiv2 {
+    background-color: black;
+    height: 60px;
+    width: 400px;
+    margin-top: 7px;
+    margin-left: 500px;
+}
